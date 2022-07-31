@@ -1,4 +1,5 @@
-- 👋 # Hi, I’m @UManzar
+# Uzma
+- 👋 Hi, I’m @UManzar
 - 👀 I’m interested ... 
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on ...
